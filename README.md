@@ -7,5 +7,5 @@ a better version of the Corona Bootstrap Theme for Heliactyl
 
 
 # Adding some Icons everywere
-# Making some chnages here and there maybe some good ones
+# Making some changes here and there maybe some good ones
 # Not going crazy anythime soon [Most important !!!!]
